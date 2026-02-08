@@ -1,4 +1,5 @@
 langchain
+langchain-classic
 ipykernel
 python-dotenv
 langchain_community
@@ -16,3 +17,4 @@ langchain_chroma
 sentence-transformers
 langchain-openai
 beautifulsoup4
+streamlit
