@@ -27,7 +27,7 @@ st.title("LANGCHAIN Demo With LLAMA2")
 input_text = st.text_input("What Question do you have in your mind")
 
 ## Ollama LLama model
-llm = Ollama(model="gemma:2b")
+llm = Ollama(model="llama3")
 output_parser =StrOutputParser()
 chain = prompt|llm|output_parser
 
