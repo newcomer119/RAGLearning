@@ -18,3 +18,4 @@ sentence-transformers
 langchain-openai
 beautifulsoup4
 streamlit
+langchain_groq
