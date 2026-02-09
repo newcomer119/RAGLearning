@@ -1,4 +1,5 @@
 langchain
+langchain-core
 langchain-classic
 ipykernel
 python-dotenv
@@ -19,3 +20,7 @@ langchain-openai
 beautifulsoup4
 streamlit
 langchain_groq
+fastapi
+uvicorn
+langserve
+sse_starlette
