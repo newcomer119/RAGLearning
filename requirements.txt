@@ -25,3 +25,4 @@ uvicorn
 langserve
 sse_starlette
 langchain_huggingface
+langchain-google-genai
