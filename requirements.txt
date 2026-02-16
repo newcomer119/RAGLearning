@@ -28,3 +28,5 @@ langchain_huggingface
 langchain-google-genai
 arxiv
 wikipedia
+PyPDF2
+datasets
