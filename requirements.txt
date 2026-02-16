@@ -26,3 +26,5 @@ langserve
 sse_starlette
 langchain_huggingface
 langchain-google-genai
+arxiv
+wikipedia
