@@ -1,0 +1,36 @@
+[project]
+name = "1-4-langchain-search-engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=2.4.0",
+    "beautifulsoup4>=4.14.3",
+    "bs4>=0.0.2",
+    "chromadb>=1.5.0",
+    "ddgs>=9.10.0",
+    "faiss-cpu>=1.13.2",
+    "fastapi>=0.129.0",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langchain-chroma>=1.1.0",
+    "langchain-classic>=1.0.1",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.13",
+    "langchain-google-genai>=4.2.0",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.0",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.9",
+    "langchain-text-splitters>=1.1.0",
+    "langserve>=0.3.3",
+    "pymupdf>=1.27.1",
+    "pypdf>=6.7.0",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.2.2",
+    "sse-starlette>=3.2.0",
+    "streamlit>=1.54.0",
+    "uvicorn>=0.40.0",
+    "wikipedia>=1.4.0",
+]
