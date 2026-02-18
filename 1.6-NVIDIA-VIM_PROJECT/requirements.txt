@@ -1,0 +1,9 @@
+openai
+python-dotenv
+langchain-core
+langchain-text-splitters
+langchain_nvidia_ai_endpoints
+langchain_community
+faiss-cpu
+streamlit
+langchain
